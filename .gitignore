@@ -1,0 +1,7 @@
+*.json
+\venv
+.vscode
+\__pycache__
+\homework
+database.db
+\images
